@@ -28,3 +28,4 @@
 ---
 **Выполнил:** Eduard Khidiyatov  
 **Цель:** Демонстрация навыков администрирования Cisco IOS.
+<img width="2604" height="1398" alt="{EB245D4B-B71E-433C-9A00-94107E6A8CD9}" src="https://github.com/user-attachments/assets/5d7d4e36-0958-4db8-ae64-0eaf6de92c23" />
